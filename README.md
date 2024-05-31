@@ -4,7 +4,7 @@ The project seeks to address the evolving landscape of career transitions within
 
 #### Dashboard :
 
-![Data Professional's](https://github.com/KG-GitHubRepo/Global-Data-Professionals-Dashboard/blob/main/img.JPG)
+![Data Professional's](https://github.com/Komal-GitHubb/Global-Data-Professionals-Dashboard/blob/main/img.JPG)
 
 #### Insights:
 
